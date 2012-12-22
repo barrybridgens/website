@@ -1,0 +1,28 @@
+/* Barry's Bailiwick ccs definition */
+/* (c) Barry Bridgens 2013 */
+
+#header {
+	font-size: large;
+	color: blue;
+	text-align: center;
+}
+
+#main {
+	padding-top: 20px;
+}
+
+#footer {
+	text-align: center;
+	padding-top: 50px;
+	color: grey;
+	font-size: 0.75em;
+}
+
+#menu {
+	background-color: #aabbcc;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-top: 10px;
+	text-align: justify;
+}
