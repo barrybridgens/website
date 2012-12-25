@@ -8,7 +8,8 @@
 }
 
 #main {
-	padding-top: 20px;
+	padding-top: 30px;
+	padding-left: 50px;
 }
 
 #footer {
@@ -19,10 +20,23 @@
 }
 
 #menu {
-	background-color: #aabbcc;
+	/*background-color: #aabbcc;*/
 	padding-right: 10px;
 	padding-bottom: 10px;
 	padding-left: 10px;
 	padding-top: 10px;
-	text-align: justify;
+	text-align:justify;
+	border-width: 3px;
+	border-top-style: solid;
+	border-bottom-style: solid;
 }
+
+#menu a {
+	text-decoration: none;
+	color: black;
+}
+
+#centred {
+	text-align: center;
+}
+
