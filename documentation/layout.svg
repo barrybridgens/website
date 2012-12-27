@@ -28,7 +28,7 @@
      inkscape:zoom="0.7"
      inkscape:cx="521.45014"
      inkscape:cy="380.2442"
-     inkscape:current-layer="g3122"
+     inkscape:current-layer="g3128-94-6"
      showgrid="false"
      units="mm"
      inkscape:window-width="1071"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -271,6 +271,56 @@
              x="397.14288"
              y="483.79077"
              style="font-size:22px;fill:#000000">Projects</tspan></text>
+      </g>
+      <g
+         id="g3128-94-6"
+         transform="translate(-108.57142,272.14287)"
+         style="fill:#00ffff">
+        <rect
+           transform="translate(0,308.2677)"
+           style="fill:#00ffff;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="rect3010-49-3"
+           width="147.14285"
+           height="72.85714"
+           x="370"
+           y="22.665911">
+          <title
+             id="title3012-5-3">;lekg;lkge</title>
+        </rect>
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="390"
+           y="373.79077"
+           id="text3014-70-2"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3016-3-0"
+             x="390"
+             y="373.79077"
+             style="font-size:22px;fill:#000000">Cameras</tspan></text>
+        <rect
+           style="fill:#00ffff;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="rect3010-49-4-9"
+           width="147.14285"
+           height="72.85714"
+           x="371.42856"
+           y="439.505">
+          <title
+             id="title3012-5-6-9">;lekg;lkge</title>
+        </rect>
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="374.28574"
+           y="483.79077"
+           id="text3014-70-7-4"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3016-3-7-4"
+             x="374.28574"
+             y="483.79077"
+             style="font-size:22px;fill:#000000">Photographs</tspan></text>
       </g>
     </g>
   </g>
