@@ -277,13 +277,13 @@
          transform="translate(-108.57142,272.14287)"
          style="fill:#00ffff">
         <rect
-           transform="translate(0,308.2677)"
            style="fill:#00ffff;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            id="rect3010-49-3"
            width="147.14285"
            height="72.85714"
            x="370"
-           y="22.665911">
+           y="22.665911"
+           transform="translate(0,308.2677)">
           <title
              id="title3012-5-3">;lekg;lkge</title>
         </rect>
@@ -321,6 +321,116 @@
              x="374.28574"
              y="483.79077"
              style="font-size:22px;fill:#000000">Photographs</tspan></text>
+        <rect
+           style="fill:#00ffff;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="rect3010-49-3-3"
+           width="147.14285"
+           height="72.85714"
+           x="790.85718"
+           y="327.79074">
+          <title
+             id="title3012-5-3-0">;lekg;lkge</title>
+        </rect>
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="829.42859"
+           y="372.07648"
+           id="text3014-70-2-7"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3016-3-0-3"
+             x="829.42859"
+             y="372.07648"
+             style="font-size:22px;fill:#000000">Guitar</tspan></text>
+        <rect
+           style="fill:#00ffff;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="rect3010-49-4-9-8"
+           width="147.14285"
+           height="72.85714"
+           x="792.28571"
+           y="436.36215">
+          <title
+             id="title3012-5-6-9-2">;lekg;lkge</title>
+        </rect>
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="816.57147"
+           y="480.64792"
+           id="text3014-70-7-4-5"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3016-3-7-4-4"
+             x="816.57147"
+             y="480.64792"
+             style="font-size:22px;fill:#000000">Keyboard</tspan></text>
+        <rect
+           style="fill:#008080;fill-opacity:0.15706805;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="rect3010-49-4-9-8-1"
+           width="147.14285"
+           height="72.85714"
+           x="792.14282"
+           y="550.64789">
+          <title
+             id="title3012-5-6-9-2-0">;lekg;lkge</title>
+        </rect>
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#008080;fill-opacity:0.15706805;stroke:none;font-family:Sans"
+           x="799.28577"
+           y="594.93365"
+           id="text3014-70-7-4-5-5"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3016-3-7-4-4-9"
+             x="799.28577"
+             y="594.93365"
+             style="font-size:22px;fill:#008080;fill-opacity:0.15706805">Songwriting</tspan></text>
+        <rect
+           style="fill:#00ffff;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="rect3010-49-3-3-6"
+           width="147.14285"
+           height="72.85714"
+           x="577.14288"
+           y="329.50504">
+          <title
+             id="title3012-5-3-0-7">;lekg;lkge</title>
+        </rect>
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="601.42859"
+           y="372.36221"
+           id="text3014-70-2-7-0"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3016-3-0-3-4"
+             x="601.42859"
+             y="372.36221"
+             style="font-size:22px;fill:#000000">Drawing</tspan></text>
+        <rect
+           style="fill:#00ffff;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="rect3010-49-4-9-8-15"
+           width="147.14285"
+           height="72.85714"
+           x="578.57141"
+           y="438.07648">
+          <title
+             id="title3012-5-6-9-2-6">;lekg;lkge</title>
+        </rect>
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="595.71429"
+           y="479.5051"
+           id="text3014-70-7-4-5-2"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3016-3-7-4-4-2"
+             x="595.71429"
+             y="479.5051"
+             style="font-size:22px;fill:#000000">Digital Art</tspan></text>
       </g>
     </g>
   </g>
